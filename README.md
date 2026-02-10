@@ -32,7 +32,7 @@ We would like to thank the Canadian Ice Service (CIS) for the data provision and
 
 ## How to cite
 
-@ARTICLE{Noa2025,
+@ARTICLE{Noa2025, \\
   author={Turnes, Javier Noa and Jiang, Mingzhe and Taleghanidoozdoozan, Saeid and Xu, Linlin and Clausi, David A.},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={ITT: Long-Range Spatial Dependencies for Sea Ice Semantic Segmentation}, 
