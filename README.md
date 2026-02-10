@@ -32,15 +32,16 @@ We would like to thank the Canadian Ice Service (CIS) for the data provision and
 
 ## How to cite
 
-@ARTICLE{11006022,
+@ARTICLE{Noa2025,
   author={Turnes, Javier Noa and Jiang, Mingzhe and Taleghanidoozdoozan, Saeid and Xu, Linlin and Clausi, David A.},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={ITT: Long-range Spatial Dependencies for Sea Ice Semantic Segmentation}, 
+  title={ITT: Long-Range Spatial Dependencies for Sea Ice Semantic Segmentation}, 
   year={2025},
-  volume={},
+  volume={18},
   number={},
-  pages={1-14},
-  keywords={Ice;Sea ice;Radar polarimetry;Transformers;Feature extraction;Semantic segmentation;Histograms;Training;Synthetic aperture radar;Sensors;sea ice classification;transformers;irregular tokens;unsupervised segmentation},
+  pages={13296-13309},
+  keywords={Ice;Sea ice;Radar polarimetry;Transformers;Feature extraction;Semantic segmentation;Histograms;Training;Synthetic aperture radar;Sensors;Irregular tokens;sea ice classification;transformers;unsupervised segmentation},
+  doi={10.1109/JSTARS.2025.3570896}}
   doi={10.1109/JSTARS.2025.3570896}}
 
 
